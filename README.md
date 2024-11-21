@@ -9,5 +9,6 @@ Description:A Medical Insurance Project in Pythontypically involves analyzing an
 5. **Visualization**: Use visualization tools (e.g., Matplotlib, Seaborn) to plot trends, feature distributions, and model predictions.
 This type of project is beneficial for building data science and machine learning skills while tackling real-world problems in the medical and insurance industries.
 
-COLAB LINK:https://drive.google.com/file/d/1qjZmTG7uhqmJ5pDxOd1M-Zgjw7creM5M/view?usp=sharing
-PDF LINK:https://colab.research.google.com/drive/1lE5YNBtXNJrSyaOGv70r9Nq0_B0pk55d?usp=sharing
+COLAB LINK : https://colab.research.google.com/drive/1lE5YNBtXNJrSyaOGv70r9Nq0_B0pk55d?usp=sharing
+
+PDF LINK:https://drive.google.com/file/d/1qjZmTG7uhqmJ5pDxOd1M-Zgjw7creM5M/view?usp=sharing
